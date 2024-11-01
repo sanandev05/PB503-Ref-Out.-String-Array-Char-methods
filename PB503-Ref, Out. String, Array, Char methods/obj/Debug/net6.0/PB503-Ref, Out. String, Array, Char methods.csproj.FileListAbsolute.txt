@@ -1,0 +1,15 @@
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\bin\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.exe
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\bin\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.deps.json
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\bin\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.runtimeconfig.json
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\bin\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.dll
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\bin\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.pdb
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.AssemblyInfoInputs.cache
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.AssemblyInfo.cs
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.csproj.CoreCompileInputs.cache
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.sourcelink.json
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.dll
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\refint\PB503-Ref, Out. String, Array, Char methods.dll
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.pdb
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\PB503-Ref, Out. String, Array, Char methods.genruntimeconfig.cache
+C:\Users\Icomp\Desktop\Tasks\PB503-Ref, Out. String, Array, Char methods\PB503-Ref, Out. String, Array, Char methods\obj\Debug\net6.0\ref\PB503-Ref, Out. String, Array, Char methods.dll
